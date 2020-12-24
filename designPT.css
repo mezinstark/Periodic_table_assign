@@ -1,0 +1,254 @@
+#top01{
+    background-color: #d96be0;
+    border-radius: 15px 50px;
+    text-align: center;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: 1px solid;
+    box-shadow: 2px 10px #450e5d;
+    margin-bottom: 10px;
+    
+}
+p{
+    font-family: monospace;
+    font-size: 1.5em;
+}
+#top01:hover
+{
+    background-color: #450e5d;
+    color: white;
+    box-shadow: 2px 10px #d96be0 ;
+}
+
+#Container{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom:20%
+}
+
+table{
+    font-size: large;
+    
+}
+td{
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.x{
+    border-radius: 15px;
+    border: 1px solid black;
+    font-weight:bolder;
+    font-size: 1.2em;
+    padding-left: 20px;
+    padding-right:20px;
+}
+sup{
+    font-size: smaller;
+}
+#container02{
+    border: 2px solid;
+    border-radius: 10px;
+   margin-top: 5%;
+   margin-left: 20%;
+   
+}
+.c1{
+background-color: #fbfb76;
+}
+.c2{
+    background-color: #ffb1c3;
+}
+.c3{
+    background-color: #c48ff3;
+}
+.c4{
+    background-color: #e28b9b;
+}
+.c5{
+    background-color: #ec9a7b;
+}
+.c6{
+    background-color: #7ee67e;
+}
+.c7{
+    background-color: #d2d3fb;
+}
+.c8{
+    background-color: #2a5808ab;
+    
+}
+.c9{
+    background-color: #7deaea;
+}
+
+td:hover{
+    background-color: #ffffff;
+    border-width: 0.2em;
+}
+
+#D_container{
+margin-top:10%;
+padding-left:5%;
+border: 5px solid;
+padding-right: 5%;
+margin-left: 20px;
+margin-right: 20px;
+border-radius: 15px;;
+}
+
+#am{
+    background-color: #fbfb76;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
+    border-radius: 15px;;
+    border: 4px solid #a26900;
+}
+#aem{
+    background-color: #ffb1c3;
+    border:4px solid #f93030;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#tm{
+    background-color: #c48ff3;
+    border: 4px solid #6908bf;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#om{
+    background-color: #e28b9b;
+    border:4px solid #980520;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#onm{
+    background-color: #ec9a7b;
+    border:4px solid #a73307;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#h{
+    background-color: #7ee67e;
+    border: 4px solid #006500;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#ng{
+    background-color: #d2d3fb;
+    border:4px solid #1c1d4c;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#lan{
+    background-color: #2a5808ab;
+    border:4px solid #0c1d00;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#act{
+    background-color: #7deaea;
+    border: 4px solid #033333;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+
+
+
+#am:hover{
+    background-color: #fbfb76;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 20px;
+    border-radius: 15px;;
+    border: 8px solid #a26900;
+}
+#aem:hover{
+    background-color: #ffb1c3;
+    border:8px solid #f93030;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#tm:hover{
+    background-color: #c48ff3;
+    border: 8px solid #6908bf;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#om:hover{
+    background-color: #e28b9b;
+    border:8px solid #980520;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#onm:hover{
+    background-color: #ec9a7b;
+    border:8px solid #a73307;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#h:hover{
+    background-color: #7ee67e;
+    border: 8px solid #006500;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#ng:hover{
+    background-color: #d2d3fb;
+    border:8px solid #1c1d4c;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#lan:hover{
+    background-color: #2a5808ab;
+    border:8px solid #0c1d00;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
+#act:hover{
+    background-color: #7deaea;
+    border: 8px solid #033333;
+    padding:20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 15px;
+}
